@@ -2,9 +2,5 @@ new change
 from dev 1
 
 
-<<<<<<< .mine
 from dev 2
-from dev 2 svn||||||| .r70
-from dev 2=======
-from dev 2
-from dev 1 svn>>>>>>> .r71
+
